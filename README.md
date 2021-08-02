@@ -1,1 +1,1 @@
-# flock-go library
+# Flock Go Library
